@@ -1,0 +1,15 @@
+# Progetto Informatica Grafica di Coppola Gianluca
+
+![Slide 1](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide1.PNG)
+![Slide 2](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide2.PNG)
+![Slide 3](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide3.PNG)
+![Slide 4](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide4.PNG)
+![Slide 5](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide5.PNG)
+![Slide 6](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide6.PNG)
+![Slide 7](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide7.PNG)
+![Slide 8](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide8.PNG)
+![Slide 9](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide9.PNG)
+![Slide 10](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide10.PNG)
+![Slide 11](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide11.PNG)
+![Slide 12](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide12.PNG)
+![Slide 13](https://github.com/Gianluca-Coppola/IG-Naglfar/blob/main/PresentazioneNaglfar%20(Slides)/Slide13.PNG)
